@@ -1,4 +1,4 @@
-baseURL = 'https://example.org/'
+baseURL = 'https://timspowell.com/'
 languageCode = 'en-us'
-title = 'My New Hugo Site'
-theme = 'ananke'
+title = 'Tim Powell'
+theme = 'personal-web'
