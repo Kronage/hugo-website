@@ -1,4 +1,4 @@
 baseURL = 'https://timspowell.com/'
 languageCode = 'en-us'
 title = 'Tim Powell'
-theme = 'ananke'
+theme = 'personal-web'
